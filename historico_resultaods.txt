@@ -1,0 +1,3 @@
+Palavra: teste | Perdedor: Competidor andre | Ganhador: Desafiante bruno 
+Palavra: teste | Perdedor: Competidor andre | Ganhador: Desafiante bruno 
+Palavra: futebol | Perdedor: Desafiante bruno | Ganhador: Competidor arthur 
